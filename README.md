@@ -1,7 +1,7 @@
 # LabVIEW-GameOfLife
 A simple LabVIEW program of "Conway's Game of Life".
 
-The Program is written on LabVIEW 2018.
+The program is written in LabVIEW 2018.
 
 ### How to Run
 1. Drag the border of cells' grid to customize the size of grid,
