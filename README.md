@@ -15,3 +15,6 @@ Press "Reset" to reset the cells.
 3. Press "Start" button to execute the game,
 and press "Stop" button to pause the game.  
  Set "Time Interval (ms)" if the step is too fast or too slow.
+
+### Screenshot
+<img src="./Screenshot.png" alt="Screenshot" width="70%" height="70%" />
