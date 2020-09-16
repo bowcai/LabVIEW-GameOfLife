@@ -1,5 +1,5 @@
 # LabVIEW-GameOfLife
-A simple LabVIEW program of "Conway's Game of Life".
+A simple LabVIEW program of "[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)".
 
 The program is written in LabVIEW 2018.
 
